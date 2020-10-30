@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "tpuser",
+    "password": "passworduser",
+    "database": "tp",
+    "host": "localhost",
+    "dialect": "mariadb"
+  },
+  "test": {
+    "username": "tpuser",
+    "password": "passworduser",
+    "database": "tp_test",
+    "host": "127.0.0.1",
+    "dialect": "mariadb"
+  },
+  "production": {
+    "username": "tpuser",
+    "password": "passworduser",
+    "database": "tp_prod",
+    "host": "127.0.0.1",
+    "dialect": "mariadb"
+  }
+}
