@@ -3,12 +3,9 @@
 </template>
 
 <script>
+import Vue from "vue";
 
-export default {
-  name: 'App',
-
-  data: () => ({
-    //
-  }),
-};
+export default Vue.extend({
+  name: "App"
+});
 </script>
